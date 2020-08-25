@@ -10,7 +10,7 @@ assignees: ''
 **Use Case**
 Describe the use case of this feature.
 
-** Expected Behavior **
+**Expected Behavior**
 Clear and concise explanation of expected behaviour.
 
 **Additional context**
